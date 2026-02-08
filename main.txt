@@ -19,3 +19,8 @@ Più dettagliati siamo nell'inserimento delle note meglio è, più chiaro è per
 
 "git checkout -b nome_brench" --> così si crea e si va in un nuovo brench - quindi nuovo ramo dove lavorare.
 "git branch --> mi dice su che brench sono.
+
+"git reset" --> ci permette di tornare indietro per prima del git add . ma subito dopo averlo fatto.
+
+Se poi noi facciamo "git add ." e poi "git commit -m "nome_nota" l'unico modo per poter tornare indietro è
+"git reset HEAD~1"
