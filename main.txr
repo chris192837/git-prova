@@ -12,9 +12,10 @@ ALT + SHIFT + F --> per rendere un file html in ordine.
 - Terzo step
 Per ogni modifica si può aggiungere una nota di quello che si è creato su git, lo si fa con i comandi:
 "git status" nel terminale per vedere lo stato dei file: se dobbiamo salvare qualcosa o meno.
+"git add ." --> salva file
 "git commit -m 'nome della nota' " per aggiungere la nostra nota e salvare tutto.
 "git log" ci permette di vedere le nostre modifiche, quando sono state fatte.
 Più dettagliati siamo nell'inserimento delle note meglio è, più chiaro è per tutti.
 
-"git checkout -b nome_brench" --> così si crea e si va in un nuovo brench.
+"git checkout -b nome_brench" --> così si crea e si va in un nuovo brench - quindi nuovo ramo dove lavorare.
 "git branch --> mi dice su che brench sono.
