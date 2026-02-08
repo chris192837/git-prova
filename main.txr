@@ -20,3 +20,6 @@ Più dettagliati siamo nell'inserimento delle note meglio è, più chiaro è per
 "git checkout -b nome_branch" --> così si crea e si va in un nuovo branch - quindi nuovo ramo dove lavorare.
 "git checkout master" --> è per spostarsi da un branch all'altro.
 "git branch --> mi dice su che brench sono.
+
+Bisogna poi rendersi conto e capire che cambiando branch si cambia anche codice allo stesso tempo.
+Se lo si modifica da una parte dall'altra non lo si modifica.
