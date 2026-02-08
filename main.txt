@@ -23,3 +23,8 @@ Più dettagliati siamo nell'inserimento delle note meglio è, più chiaro è per
 "git reset" --> ci permette di tornare indietro per prima del git add . ma subito dopo averlo fatto.
 
 Se poi noi facciamo "git add ." e poi "git commit -m "nome_nota" l'unico modo per poter tornare indietro è
+"git reset HEAD~1"
+
+Se eventualmente vogliamo tornare ad un commit più indietro che solo l'ultimo dobbiamo prendere l'hash:
+esempio di hash: 85d77a491d66d517f2134ea9fb8451e2c78240a0 di dove ho scritto "aggiusto testo DEV in titolo.
+
