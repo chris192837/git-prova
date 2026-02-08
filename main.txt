@@ -27,7 +27,3 @@ Se poi noi facciamo "git add ." e poi "git commit -m "nome_nota" l'unico modo pe
 "git reset HEAD~1"
 =======
 "git reset HEAD~1"
-
-Se eventualmente vogliamo tornare ad un commit più indietro che solo l'ultimo dobbiamo prendere l'hash:
-esempio di hash: 85d77a491d66d517f2134ea9fb8451e2c78240a0 di dove ho scritto "aggiusto testo DEV in titolo:
->>>>>>> dev
