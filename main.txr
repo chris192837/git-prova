@@ -1,0 +1,20 @@
+GIT HUB - how it works
+
+- Primo step
+Prendiamo un file di un tipo su github, copiamo il code su vscode nel terminale e lo mettiamo poi in una cartella.
+Poi creiamo la nostra cartella delle modifiche e lo apriamo su vscode.
+
+- Secondo step
+Si crea un file index.html e per creare la base di un file si fa SHIFT + ! + TAB, tutto insime.
+Si modifica il file per come si vuole.
+ALT + SHIFT + F --> per rendere un file html in ordine.
+
+- Terzo step
+Per ogni modifica si può aggiungere una nota di quello che si è creato su git, lo si fa con i comandi:
+"git status" nel terminale per vedere lo stato dei file: se dobbiamo salvare qualcosa o meno.
+"git commit -m 'nome della nota' " per aggiungere la nostra nota e salvare tutto.
+"git log" ci permette di vedere le nostre modifiche, quando sono state fatte.
+Più dettagliati siamo nell'inserimento delle note meglio è, più chiaro è per tutti.
+
+"git checkout -b nome_brench" --> così si crea e si va in un nuovo brench.
+"git branch --> mi dice su che brench sono.
