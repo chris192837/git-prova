@@ -31,5 +31,5 @@ esempio di hash: 85d77a491d66d517f2134ea9fb8451e2c78240a0 di dove ho scritto "ag
 
 - Quarto step
 Se vogliamo poi caricare il lavoro fatto su github per salvarlo cosicchè i file non vengano persi in caso bisogna
-fare: "git remote add origin <con il link del nostro repository creato apposto su git>".
+fare: "git remote add origin <con il link del nostro repository creato apposta su git>".
 E se vogliamo aggiornare su git bisogna fare "git push".
