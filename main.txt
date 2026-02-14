@@ -18,6 +18,7 @@ Per ogni modifica si può aggiungere una nota di quello che si è creato su git,
 Più dettagliati siamo nell'inserimento delle note meglio è, più chiaro è per tutti.
 
 "git checkout -b nome_brench" --> così si crea e si va in un nuovo brench - quindi nuovo ramo dove lavorare.
+"git checkout nome_brench" --> così ci si sposta da una parte all'altra.
 "git branch --> mi dice su che brench sono.
 
 "git reset" --> ci permette di tornare indietro per prima del git add . ma subito dopo averlo fatto.
